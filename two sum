@@ -1,3 +1,4 @@
+```
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int length = nums.length;
@@ -14,3 +15,4 @@ class Solution {
         return null;
     }
 }
+```
